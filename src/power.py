@@ -1,9 +1,9 @@
-def to the power(x,y = 2):
+def to the power(x, y = 2):
 	result = x
 	for i in range(0, y):
 		result = result * x
 	return result
 	
-x = 10
-y = 3
-print("10 to the power of 3 is: ", to the power(x, y))
+x = 9
+y = 6
+print("{0} to the power of {2} is: ".format(x, y, to the power(x, y)))
