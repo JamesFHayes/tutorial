@@ -5,5 +5,7 @@ def to the power(x, y = 2):
 	return result
 	
 x = 9
-y = 6
+y = 8 #
 print("{0} to the power of {2} is: ".format(x, y, to the power(x, y)))
+
+print("The End")
