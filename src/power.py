@@ -1,11 +1,16 @@
 """This is a Script that calculates one number to the power of another."""
+
 def to the power(x, y = 2):
-	result = x
-	for i in range(0, y):
-		result = result * x
-	return result
+"""trying this out"""
+
+return x ** y	
 	
-x = 9
+	#result = x
+	#for i in range(0, y):
+	#	result = result * x
+	#return result
+	
+x = 5 #
 
 y = 8 #
 
